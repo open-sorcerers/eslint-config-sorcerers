@@ -13,7 +13,6 @@
 - [eslint-plugin-promise](//npmjs.org/package/eslint-plugin-promise)
 - [eslint-plugin-ramda](//npmjs.org/package/eslint-plugin-ramda)
 - [eslint-plugin-standard](//npmjs.org/package/eslint-plugin-standard)
-- [eslint-plugin-unicorn](//npmjs.org/package/eslint-plugin-unicorn)
 
 ## Peer Dependencies
 - [eslint](//npmjs.org/package/eslint)
